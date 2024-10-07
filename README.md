@@ -2,7 +2,7 @@
 
 <h3>Objective : </h3>
 I used 'Google Gemini' to generate the summary of YouTube videos transcript. 
-
+<hr>
 <h3>How to use code : </h3>
 Download the code and run the 'Summary Generator.ipynb' file.<br>
 Generate 'API' Key for 'Google Gemini'.<br>

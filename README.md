@@ -1,16 +1,16 @@
 # Video-Transcript-Summarizer
 
-<h1>Objective : </h1>
+<h3>Objective : </h3>
 I used 'Google Gemini' to generate the summary of YouTube videos transcript. 
 
-<h1>How to use code : </h1>
+<h3>How to use code : </h3>
 Download the code and run the 'Summary Generator.ipynb' file.<br>
 Generate 'API' Key for 'Google Gemini'.<br>
 It will install all the necessary Libraries and run 'app.py' file on streamlit server.
 
-<h1>Working : </h1>
+<h3>Working : </h3>
 We have to give any YouTube video link and press 'enter' to get the video.<br>
 Further click on 'Get  Summary' button to get the summary of transcript.
 
-<h1>Code : </h1>
+<h3>Code : </h3>
 By video link we can access the corrosponding transcript and use the transcript to generate summary using 'gemini-pro' model.

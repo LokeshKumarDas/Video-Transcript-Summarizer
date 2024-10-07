@@ -4,8 +4,9 @@
 I used 'Google Gemini' to generate the summary of YouTube videos transcript. 
 <hr>
 <h3>How to use code : </h3>
-Download the code and run the 'Summary Generator.ipynb' file.<br>
-Generate 'API' Key for 'Google Gemini'.<br>
+Download the code.<br>
+Generate 'API' Key for 'Google Gemini' and add this to app.py file.<br>
+Run the 'Summary Generator.ipynb' file.<br>
 It will install all the necessary Libraries and run 'app.py' file on streamlit server.
 <hr>
 <h3>Working : </h3>
